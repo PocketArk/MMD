@@ -1,1 +1,6 @@
-1
+{
+      "SceneVersion" : 1,
+      "SceneUrl" : "https://play.google.com/store/apps/details?id=color.colorcard.picture.pro",
+      "SkyVersion" : 1,
+      "SkyUrl" : "https://play.google.com/store/apps/details?id=color.colorcard.picture.pro"
+}
