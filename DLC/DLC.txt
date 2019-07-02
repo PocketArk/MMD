@@ -1,1 +1,6 @@
-H4sIAMWUG10A/63NsQoCMRAE0P7g/iGklgTbA/EjRPuwWc5w6+2yuxZB/HfxKi3snGKKmeI9xiFsiSfAFS+o1niNYQr73fd1VnrP8eouNuUsVHqamWfCBHzL5qyYi4jlil4a2bHVAzCxpq2haE3SwO+KSZTjB7D0H/LS/++Ow/MFJxeun/cAAAA=
+{
+      "SceneVersion" : 1,
+      "SceneUrl" : "https://play.google.com/store/apps/details?id=color.colorcard.picture.pro",
+      "SkyVersion" : 1,
+      "SkyUrl" : "https://play.google.com/store/apps/details?id=color.colorcard.picture.pro"
+}
