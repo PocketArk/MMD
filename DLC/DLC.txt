@@ -2,5 +2,5 @@
       "SceneVersion" : 1,
       "SceneUrl" : "https://github.com/PocketArk/MMD/raw/master/DLC/scene",
       "SkyVersion" : 1,
-      "SkyUrl" : "https://github.com/PocketArk/MMD/raw/master/DLC/scene"
+      "SkyUrl" : "https://github.com/PocketArk/MMD/raw/master/DLC/sky"
 }
