@@ -1,6 +1,6 @@
 {
       "SceneVersion" : 1,
-      "SceneUrl" : "https://play.google.com/store/apps/details?id=color.colorcard.picture.pro",
+      "SceneUrl" : "https://github.com/PocketArk/MMD/raw/master/DLC/scene",
       "SkyVersion" : 1,
       "SkyUrl" : "https://play.google.com/store/apps/details?id=color.colorcard.picture.pro"
 }
