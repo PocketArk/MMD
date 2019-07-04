@@ -1,5 +1,5 @@
 {
-  "BundleVersion": 21,
+  "BundleVersion": 20,
   "App": [
     {
       "Name": "Color Card Pro",
