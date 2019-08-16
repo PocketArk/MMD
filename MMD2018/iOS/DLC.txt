@@ -1,0 +1,6 @@
+{
+      "SceneVersion" : 3,
+      "SceneUrl" : "https://github.com/PocketArk/MMD/raw/master/MMD2018/iOS/scene",
+      "SkyVersion" : 3,
+      "SkyUrl" : "https://github.com/PocketArk/MMD/raw/master/MMD2018/iOS/sky"
+}
